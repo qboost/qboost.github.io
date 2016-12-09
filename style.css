@@ -8,28 +8,33 @@ and open the template in the editor.
     Author     : swhite27
 */
 
-@import url('https://fonts.googleapis.com/css?family=Inconsolata|Lalezar|Roboto');
+@import url('https://fonts.googleapis.com/css?family=Bungee|Cabin|Raleway');
 
 body
 {
-    font-family: 'Lalezar', cursive; 
-    background-color: #cccccc
+    font-family: 'Raleway';
+    background-color: #cccccc;
 }
 
 .jumbotron
 {
-    font-family: Inconsolata;
+    font-family: 'Bungee';
     background-color: #999999;     
+}
+
+.well
+{
+    font-family: 'Cabin';
 }
 
 h1
 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 h2
 {
-    font-family: 'Roboto', sans-serif;  
+    font-family: 'Raleway', sans-serif;  
 }
 
 .lilPadding
