@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 25, 2016, 9:19:09 AM
+    Author     : swhite27
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Lalezar|Roboto');
+
+body
+{
+    font-family: 'Lalezar', cursive; 
+    background-color: #cccccc
+}
+
+.jumbotron
+{
+    font-family: Inconsolata;
+    background-color: #999999;     
+}
+
+h1
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+h2
+{
+    font-family: 'Roboto', sans-serif;  
+}
+
+.lilPadding
+{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
