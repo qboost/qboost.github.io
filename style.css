@@ -50,3 +50,8 @@ h2
     padding-bottom: 25px;
 }
 
+
+.lilBorder
+{
+    outline: 1px solid black;
+}
