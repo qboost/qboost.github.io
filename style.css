@@ -86,5 +86,11 @@ a
 
 .niceColor
 {
-    color: crimson;
+    color: #ff6666;
 }
+
+.niceBg
+{
+    color: #ffcccc;
+}
+
