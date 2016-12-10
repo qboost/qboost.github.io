@@ -44,6 +44,11 @@ h2
     font-family: 'Raleway', sans-serif;  
 }
 
+h3
+{
+    font-size: medium;
+}
+
 h5
 {
         font-family: 'Bungee';
@@ -91,6 +96,6 @@ a
 
 .niceBg
 {
-    color: #ffcccc;
+    background-color: #ffcccc;
 }
 
