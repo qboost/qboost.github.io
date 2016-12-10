@@ -13,13 +13,13 @@ and open the template in the editor.
 body
 {
     font-family: 'Raleway';
-    background-color: #cccccc;
+    background-color: #999999;
 }
 
 .jumbotron
 {
     font-family: 'Bungee';
-    background-color: #cccccc;  
+    background-color: #999999;
 }
 
 .well
