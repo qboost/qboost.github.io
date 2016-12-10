@@ -19,7 +19,7 @@ body
 .jumbotron
 {
     font-family: 'Bungee';
-    background-color: #cccccc;    
+    background-color: #999999;   
 }
 
 .well
@@ -55,6 +55,12 @@ h2
     padding-bottom: 25px;
 }
 
+.dankFont
+{
+        font-family: 'Bungee';
+        font-size: x-large;
+}
+
 
 .lilBorder
 {
@@ -65,4 +71,14 @@ h2
 {
     background-color: #ffffff
     
+}
+
+a
+{
+    
+}
+
+.niceColor
+{
+    color: crimson;
 }
